@@ -1,6 +1,6 @@
-$moviesAlreadyProcessed = "X:\Users\anoop\OneDrive\WindowsPowerShell\Convert-MoviesForPlex\alreadyProcessed.txt"
-$moviesToBeProcessed = "X:\Users\anoop\OneDrive\WindowsPowerShell\Convert-MoviesForPlex\ToBeProcessed.txt"
-$SourceFolder = "X:\users\anoop\Videos\Movies"
+$moviesAlreadyProcessed = "c:\tmp\Convert-MoviesForPlex\alreadyProcessed.txt"
+$moviesToBeProcessed = "c:\tmp\Convert-MoviesForPlex\ToBeProcessed.txt"
+$SourceFolder = "X:\Movies"
 $handbrakecli = "C:\Program Files\Handbrake\HandBrakeCLI.exe"
 $handbrakepreset = "Xbox 1080p30 Surround"
 
